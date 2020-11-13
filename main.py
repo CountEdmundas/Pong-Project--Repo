@@ -5,7 +5,6 @@
 import turtle
 import winsound
 
-import requests
 
 wn = turtle.Screen()
 wn.title("Pong by @Oktavijus")
